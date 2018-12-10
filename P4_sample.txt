@@ -1,0 +1,27 @@
+A Sam_Smith  48000
+A Sally_Jones  52000
+A Sue_Johnson 49500
+P
+A Sally_Jones  55000
+V
+R 10000
+P
+A George_Harrison 120000
+A Bill_Gates 18000
+A Donald_Clinton 1000000000
+P
+D Donald_Clinton
+D Sue_Johnson
+P
+S N
+P
+S S
+P
+BAD Command
+Extra bad command!
+D Sam_Smith
+D Sally_Jones
+D George_Harrison
+D Bill_Gates
+P
+V
